@@ -137,7 +137,7 @@ Light = {
 		TextField = Color3.fromRGB(175,175,175),
 		TextFieldAccent = Color3.fromRGB(255,255,255)
 	},
-Glide = {
+	Glide = {
 		MainFrame = Color3.fromRGB(255,255,255),
 		Minimise = Color3.fromRGB(255,106,0),
 		MinimiseAccent = Color3.fromRGB(147,59,0),
